@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="ja">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1.0" />
+  <meta name="format-detection" content="telephone=no" />
+  <!-- meta情報 -->
+  <title>CodeUps</title>
+  <meta name="description" content="" />
+  <meta name="keywords" content="" />
+  <!-- ogp -->
+  <meta property="og:title" content="" />
+  <meta property="og:type" content="" />
+  <meta property="og:url" content="" />
+  <meta property="og:image" content="" />
+  <meta property="og:site_name" content="" />
+  <meta property="og:description" content="" />
+  <!-- ファビコン -->
+  <link rel="”icon”" href="" />
+  <!-- css -->
+  <link rel="stylesheet" href="./assets/css/styles.css">
+  <!-- JavaScript -->
+  <script src="https://code.jquery.com/jquery-3.6.0.js"></script>
+  <script defer src="./js/script.js"></script>
+</head>
+
+<body>
+  <!-- radar-chart -->
+  <div class="radar-chart-002">
+    <svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 200 200">
+      <g stroke="#dce5eb">
+        <path d="M 100 100 L 100.0 0.0" />
+        <path d="M 100 100 L 195.1 69.1" />
+        <path d="M 100 100 L 158.8 180.9" />
+        <path d="M 100 100 L 41.2 180.9" />
+        <path d="M 100 100 L 4.9 69.1" />
+      </g>
+      <g stroke="#dce5eb" fill="none">
+        <path d="M 100.0 0.0 L 195.1 69.1 L 158.8 180.9 L 41.2 180.9 L 4.9 69.1 L 100.0 0.0" />
+        <path d="M 100.0 20.0 L 176.1 75.3 L 147.0 164.7 L 53.0 164.7 L 23.9 75.3 L 100.0 20.0" />
+        <path d="M 100.0 40.0 L 157.1 81.5 L 135.3 148.5 L 64.7 148.5 L 42.9 81.5 L 100.0 40.0" />
+        <path d="M 100.0 60.0 L 138.0 87.6 L 123.5 132.4 L 76.5 132.4 L 62.0 87.6 L 100.0 60.0" />
+        <path d="M 100.0 80.0 L 119.0 93.8 L 111.8 116.2 L 88.2 116.2 L 81.0 93.8 L 100.0 80.0" />
+      </g>
+      <path d="M 100.0 38.0 L 166.6 78.4 L 141.1 156.6 L 58.9 156.6 L 33.4 78.4 L 100.0 38.0" fill="#2589d030"
+        stroke="#2589d0" />
+      <g fill="#2589d0">
+        <circle cx="100.0" cy="38.0" r="3" />
+        <circle cx="166.6" cy="78.4" r="3" />
+        <circle cx="141.1" cy="156.6" r="3" />
+        <circle cx="58.9" cy="156.6" r="3" />
+        <circle cx="33.4" cy="78.4" r="3" />
+        <circle cx="33.4" cy="78.4" r="3" />
+      </g>
+    </svg>
+    <dl>
+      <div>
+        <dt>女優の可愛い・綺麗度</dt>
+        <dd>6.2</dd>
+      </div>
+      <div>
+        <dt>エロ度</dt>
+        <dd>7.0</dd>
+      </div>
+      <div>
+        <dt>イキ方</dt>
+        <dd>7.0</dd>
+      </div>
+      <div>
+        <dt>喘ぎ声</dt>
+        <dd>7.0</dd>
+      </div>
+      <div>
+        <dt>演技</dt>
+        <dd>7.0</dd>
+      </div>
+      <div>
+        <dt>てすと</dt>
+        <dd>7.0</dd>
+      </div>
+    </dl>
+  </div>
+  <!-- /radar-chart -->
+</body>
+
+</html>
